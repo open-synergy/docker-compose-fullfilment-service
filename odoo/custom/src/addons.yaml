@@ -1,0 +1,11 @@
+opnsynid-stock-logistics-workflow:
+  - stock_picking_fulfillment_service_invoice
+
+opnsynid-l10n-indonesia:
+  - l10n_id_djbc_app
+
+opnsynid-server-tools:
+  - base_sequence_configurator
+
+opnsynid-l10n-indonesia-fullfilment-service:
+  - l10n_id_djbc_fullfilment_service
